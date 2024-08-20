@@ -1,0 +1,13 @@
+What is AI?
+-> AI is branch of science that helps machines solves complex problems in a humain like way. it involves adopting various characteristic of humain intellenge and implementing then as algorithems in a computer friendly manner.
+
+****IMPORTANCE OF AI****
+-> Medicine :- Ai can help diagonse desiases and suggest treatment
+-> Finance :- Ai can analyse market prediction.
+-> Education :- Ai can personalized learning experiences of student.
+
+****CAPABILITIES OF AI****
+-> Reasoning - making logical desision based on arious information.
+-> learning :- Learning from past experience and improving our times
+-> Decision making :- Making decisions similar to how human do.
+
