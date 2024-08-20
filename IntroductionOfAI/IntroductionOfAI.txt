@@ -11,3 +11,11 @@ What is AI?
 -> learning :- Learning from past experience and improving our times
 -> Decision making :- Making decisions similar to how human do.
 
+***APLICATIONS OF AI***
+-> Providing mathematical theorem ai can assits in solution complex methematical problmes.
+-> playing chess: - Ai can play and often beat humain playes.
+-> Writing Poetry:- Ai can generate creative content like Poetry.
+-> Deagnosing Diseas :- Ai can help in identifying and diagonosis indictical condition .
+
+*** interdisciplinary Nature of AI***
+* mathematical * psychology * Cognition * Biology * philosphy
